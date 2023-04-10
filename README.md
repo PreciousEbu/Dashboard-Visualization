@@ -6,5 +6,5 @@ This repo contains visualizations and dashboards made with different BI tools su
 
 - The Airline Passenger Satisfaction Dashboard visualizes the distribution of different classes of customers and compares their level of satisfaction based on different metrics and the type of travel, gender and flight distance covered.
 
-To checkout my tableau visualizations, go to: https://public.tableau.com/app/profile/precious.ebu6855
+To check out my other tableau visualizations, go to: https://public.tableau.com/app/profile/precious.ebu6855
 
